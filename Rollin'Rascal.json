@@ -151,7 +151,7 @@
     "CHAT_GREY": "#000000"
   },
   "background": {
-    "blur": 0.2,
+    "blur": 1.0,
     "url": "https://cdn.discordapp.com/attachments/865680485681463316/1216476368976613468/campaign_thank_you_3.png?ex=665049a7&is=664ef827&hm=21c8a92bee731b9a56f9029ef55db0fc1785ba20ae5b648e689928267a26981a&",
     "alpha": 1.0
   }
