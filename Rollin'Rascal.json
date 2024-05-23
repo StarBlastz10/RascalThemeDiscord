@@ -1,5 +1,5 @@
   {
-  "name": "Rollin'RascalT",
+  "name": "Rollin'RascalTheme",
   "description": "Lets Get Rollin'.",
   "version": "1.2",
   "authors": [
@@ -151,8 +151,8 @@
     "CHAT_GREY": "#000000"
   },
   "background": {
-    "blur": 0.2,
-    "url": "https://cdn.discordapp.com/attachments/865680485681463316/1216476368976613468/campaign_thank_you_3.png?ex=665049a7&is=664ef827&hm=21c8a92bee731b9a56f9029ef55db0fc1785ba20ae5b648e689928267a26981a&",
+    "blur": 2.5,
+    "url": "https://media.discordapp.net/attachments/865680485681463316/1216476368976613468/campaign_thank_you_3.png?ex=6650f267&is=664fa0e7&hm=4c46b49550e42babd1ab93a5325e74304a09ff1041712ef33d974dd8d36c853c&",
     "alpha": 1.0
   }
 }
