@@ -1,20 +1,20 @@
   {
-  "name": "RascalTheme",
-  "description": "Get Rollin'",
-  "version": "2.9.1",
+  "name": "Rollin'RascalTheme",
+  "description": "Lets Get Rollin'.",
+  "version": "1.2",
   "authors": [
     {
-      "name": "Rollin'Rascal",
+      "name": "Rascal",
       "id": "705853948052897813"
     }
   ],
   "theme_color_map": {
     "HEADER_PRIMARY": [
-      "#d95f76",
+      "#43b581",
       "#23232d"
     ],
     "HEADER_SECONDARY": [
-      "#4fa9f6",
+      "#f0f0f0",
       "#3d4858"
     ],
     "TEXT_NORMAL": [
@@ -22,11 +22,11 @@
       "#2e3338"
     ],
     "TEXT_MUTED": [
-      "#d95f76",
+      "#43b581",
       "#747f8d"
     ],
     "INTERACTIVE_NORMAL": [
-      "#4fa9f6",
+      "#f0f0f0",
       "#3d4858"
     ],
     "INTERACTIVE_HOVER": [
@@ -34,47 +34,47 @@
       "#2e3338"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#de6379",
+      "#359b6c",
       "#1e1e38"
     ],
     "INTERACTIVE_MUTED": [
-      "#1b2845",
+      "#3f946d",
       "#c7ccd1"
     ],
     "BACKGROUND_PRIMARY": [
-      "#090e1a",
+      "#0a0c10",
       "#ffffff"
     ],
     "BACKGROUND_SECONDARY": [
-      "#090e1a",
+      "#0a0c10",
       "#f2f3f5"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#090e1a",
+      "#0a0c10",
       "#ebedef"
     ],
     "BACKGROUND_TERTIARY": [
-      "#101622",
+      "#14161b",
       "#e3e5e8"
     ],
     "BACKGROUND_ACCENT": [
-      "#f05fae",
+      "#58a180",
       "#747f8d"
     ],
     "BACKGROUND_FLOATING": [
-      "#0c1426",
+      "#121212",
       "#FFFFFF"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#0c1426",
+      "#121212",
       "#f8f9f9"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#090e1a",
+      "#0a0c10",
       "#ffffff"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#090e1a",
+      "#0a0c10",
       "#ffffff"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
@@ -118,15 +118,15 @@
       "#ebedef"
     ],
     "CHANNELS_DEFAULT": [
-      "#e7778b",
+      "#b6b6b6",
       "#475d77"
     ],
     "TEXT_LINK": [
-      "#c73954",
+      "#418b56",
       "#000000"
     ],
     "KEYBOARD": [
-      "#0b0f1a",
+      "#0f0c23",
       "#FFFFFF"
     ]
   },
@@ -134,15 +134,15 @@
     "PRIMARY_DARK": "#747474",
     "PRIMARY_DARK_100": "#FFFFFF",
     "PRIMARY_DARK_200": "#FFFFFF",
-    "PRIMARY_DARK_300": "#4fa9f6",
+    "PRIMARY_DARK_300": "#f0f0f0",
     "PRIMARY_DARK_360": "#fcfdfc",
     "PRIMARY_DARK_400": "#bebee3",
     "PRIMARY_DARK_500": "#697eab",
-    "PRIMARY_DARK_600": "#101622",
-    "PRIMARY_DARK_630": "#111b31",
-    "PRIMARY_DARK_700": "#0e1628",
-    "PRIMARY_DARK_800": "#131823",
-    "BRAND_NEW": "#f05fae",
+    "PRIMARY_DARK_600": "#17191b",
+    "PRIMARY_DARK_630": "#131519",
+    "PRIMARY_DARK_700": "#1a1b21",
+    "PRIMARY_DARK_800": "#13151a",
+    "BRAND_NEW": "#8bde86",
     "STATUS_RED": "#c18ea4",
     "STATUS_GREEN_600": "#87a2de",
     "STATUS_YELLOW": "#c18ea4"
@@ -151,7 +151,7 @@
     "CHAT_GREY": "#13151a"
   },
   "background": {
-    "blur": 0.1,
+    "blur": 0.2,
     "url": "https://cdn.discordapp.com/attachments/865680485681463316/1216476368976613468/campaign_thank_you_3.png?ex=665049a7&is=664ef827&hm=21c8a92bee731b9a56f9029ef55db0fc1785ba20ae5b648e689928267a26981a&",
     "alpha": 1.0
   }
