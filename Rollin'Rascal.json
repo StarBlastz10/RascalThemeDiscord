@@ -148,7 +148,7 @@
     "STATUS_YELLOW": "#c18ea4"
   },
   "unsafe_colors": {
-    "CHAT_GREY": "#13151a"
+    "CHAT_GREY": "#000000"
   },
   "background": {
     "blur": 0.2,
