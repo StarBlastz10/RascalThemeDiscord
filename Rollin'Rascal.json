@@ -151,8 +151,8 @@
     "CHAT_GREY": "#000000"
   },
   "background": {
-    "blur": 10.0,
-    "url": "https://media.discordapp.net/attachments/1149227976609779743/1243315422007263363/IMG_6349.jpg?ex=66510738&is=664fb5b8&hm=cbcfdf13a4b9b799ab58229e002bc403f791ffa6051393ca8a230808c0dac95e&",
-    "alpha": 0.8
+    "blur": 0.2,
+    "url": "https://cdn.discordapp.com/attachments/865680485681463316/1216476368976613468/campaign_thank_you_3.png?ex=665049a7&is=664ef827&hm=21c8a92bee731b9a56f9029ef55db0fc1785ba20ae5b648e689928267a26981a&",
+    "alpha": 1.0
   }
 }
