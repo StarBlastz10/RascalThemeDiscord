@@ -126,7 +126,7 @@
       "#000000"
     ],
     "KEYBOARD": [
-      "#0f0c23",
+      "#000000",
       "#FFFFFF"
     ]
   },
@@ -143,7 +143,7 @@
     "PRIMARY_DARK_700": "#1a1b21",
     "PRIMARY_DARK_800": "#13151a",
     "BRAND_NEW": "#8bde86",
-    "STATUS_RED": "#c18ea4",
+    "STATUS_RED": "#A020F0",
     "STATUS_GREEN_600": "#87a2de",
     "STATUS_YELLOW": "#c18ea4"
   },
